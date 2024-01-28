@@ -1,0 +1,5143 @@
+fileFormatVersion: 2
+guid: 404e0513227e26b458591f5ddd7f40cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6086470433100071040
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_0
+  - first:
+      213: -3702455829125612704
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_1
+  - first:
+      213: 8033754298623197876
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_2
+  - first:
+      213: -2550750717995863923
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_3
+  - first:
+      213: 204944530700231132
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_4
+  - first:
+      213: -775491691300521626
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_5
+  - first:
+      213: 9202304436397376121
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_6
+  - first:
+      213: -4628945201146383482
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_7
+  - first:
+      213: 710946952711494005
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_8
+  - first:
+      213: 2077709302272297215
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_9
+  - first:
+      213: -6566099601270070904
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_10
+  - first:
+      213: 5982244002941499286
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_11
+  - first:
+      213: -5112248720356722732
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_12
+  - first:
+      213: -7623937247624622251
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_13
+  - first:
+      213: -7192511650469163782
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_14
+  - first:
+      213: 7441758256080036972
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_15
+  - first:
+      213: -5194108458154644596
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_16
+  - first:
+      213: -1823678344334350296
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_17
+  - first:
+      213: 7143479245481944116
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_18
+  - first:
+      213: 978801636364420303
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_19
+  - first:
+      213: 4624166158421656059
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_20
+  - first:
+      213: -1263493112037206049
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_21
+  - first:
+      213: 8933747544859603903
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_22
+  - first:
+      213: -6327029123326077177
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_23
+  - first:
+      213: -3713325900271483382
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_24
+  - first:
+      213: -3143995730982624239
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_25
+  - first:
+      213: -8264604243238094101
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_26
+  - first:
+      213: -750297282573870331
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_27
+  - first:
+      213: -5186263391293404210
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_28
+  - first:
+      213: 7311576637761500394
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_29
+  - first:
+      213: 6685738616052582648
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_30
+  - first:
+      213: -5499829856829658081
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_31
+  - first:
+      213: 6732690127739103593
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_32
+  - first:
+      213: 3144382253003600730
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_33
+  - first:
+      213: -9142111990671085296
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_34
+  - first:
+      213: -1997665093904065925
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_35
+  - first:
+      213: 8035489410704218407
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_36
+  - first:
+      213: -4642090092527331537
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_37
+  - first:
+      213: 4887746541960733098
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_38
+  - first:
+      213: -6243100379903170701
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_39
+  - first:
+      213: -9150317215767338163
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_40
+  - first:
+      213: 4245940435498474085
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_41
+  - first:
+      213: -1203345405176630374
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_42
+  - first:
+      213: -3257806314124529593
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_43
+  - first:
+      213: -4936944272816819798
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_44
+  - first:
+      213: -7725827742860609517
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_45
+  - first:
+      213: 755858839364006725
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_46
+  - first:
+      213: -444335386394804688
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_47
+  - first:
+      213: 3949385800484793027
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_48
+  - first:
+      213: -6033941173262019918
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_49
+  - first:
+      213: -8961647800377515974
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_50
+  - first:
+      213: 5634247292746652125
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_51
+  - first:
+      213: -535814113850050985
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_52
+  - first:
+      213: -1468966580750158206
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_53
+  - first:
+      213: 595977266589504624
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_54
+  - first:
+      213: -5937760727653173584
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_55
+  - first:
+      213: -4352542316786136234
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_56
+  - first:
+      213: 1551273275438240303
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_57
+  - first:
+      213: 8951399260660840544
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_58
+  - first:
+      213: 9193983034980302598
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_59
+  - first:
+      213: 4528980956538560271
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_60
+  - first:
+      213: -7150174110958614708
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_61
+  - first:
+      213: 1005810934452563494
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_62
+  - first:
+      213: -128090418737177114
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_63
+  - first:
+      213: 8168220293741899603
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_64
+  - first:
+      213: -5299578994303092688
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_65
+  - first:
+      213: 6466957468046043542
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_66
+  - first:
+      213: 4171343477580486907
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_67
+  - first:
+      213: -4613236086946563921
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_68
+  - first:
+      213: 4602783621659453026
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_69
+  - first:
+      213: -6365247184094577197
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_70
+  - first:
+      213: 1018023870699179421
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_71
+  - first:
+      213: 6114072114921361627
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_72
+  - first:
+      213: 3683541755047283323
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_73
+  - first:
+      213: 2173409362228127107
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_74
+  - first:
+      213: 3940925429701086001
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_75
+  - first:
+      213: 8653663141046357018
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_76
+  - first:
+      213: -4673550764567089199
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_77
+  - first:
+      213: 1716185414239182294
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_78
+  - first:
+      213: 7574336419738231294
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_79
+  - first:
+      213: -123087702578018756
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_80
+  - first:
+      213: -5617632121464957150
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_81
+  - first:
+      213: 5047984239751013492
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_82
+  - first:
+      213: 4009609261215013413
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_83
+  - first:
+      213: 1861665298985036603
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_84
+  - first:
+      213: -4276594840754107291
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_85
+  - first:
+      213: 1606197294797468285
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_86
+  - first:
+      213: -8135130810889305291
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_87
+  - first:
+      213: -1786583396759492556
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_88
+  - first:
+      213: -7155616681030436827
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_89
+  - first:
+      213: 6069096114470496938
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_90
+  - first:
+      213: 7317136701237986469
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_91
+  - first:
+      213: 5835909405404247620
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_92
+  - first:
+      213: 7671507413992704469
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_93
+  - first:
+      213: -3971900516582527832
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_94
+  - first:
+      213: 7580296925435740949
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_95
+  - first:
+      213: 4977817549482723181
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_96
+  - first:
+      213: -45137584372544953
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_97
+  - first:
+      213: 5097003722832832932
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_98
+  - first:
+      213: 6014387156069668021
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_99
+  - first:
+      213: 8315812647919832145
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_100
+  - first:
+      213: 7593827962493923796
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_101
+  - first:
+      213: 6676804598317906211
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_102
+  - first:
+      213: 3137836674568414833
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_103
+  - first:
+      213: -6396423774765439182
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_104
+  - first:
+      213: 2798041082931524714
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_105
+  - first:
+      213: 7257310801407487396
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_106
+  - first:
+      213: -7365331031379571724
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_107
+  - first:
+      213: 7038348903028755736
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_108
+  - first:
+      213: 5754125963340938506
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_109
+  - first:
+      213: -5021896260999249743
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_110
+  - first:
+      213: 3209236024785174024
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_111
+  - first:
+      213: 3035274337764316738
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_112
+  - first:
+      213: -5315461612827319410
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_113
+  - first:
+      213: -3921651606107273537
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_114
+  - first:
+      213: -1652477767550419905
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_115
+  - first:
+      213: 2777129278623573037
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_116
+  - first:
+      213: 1701144836767433843
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_117
+  - first:
+      213: -2454496437796194514
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_118
+  - first:
+      213: -5106002908204746813
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_119
+  - first:
+      213: 8963123973564344517
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_120
+  - first:
+      213: -2144357233467249326
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_121
+  - first:
+      213: -6210614124639873609
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_122
+  - first:
+      213: -6105073527520514228
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_123
+  - first:
+      213: 3589039702235810017
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_124
+  - first:
+      213: 2874665757151928608
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_125
+  - first:
+      213: 7116446437961446373
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_126
+  - first:
+      213: -5788917943460621075
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_127
+  - first:
+      213: -787503722387641787
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_128
+  - first:
+      213: 3181502805774414227
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_129
+  - first:
+      213: 5142445555770360287
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_130
+  - first:
+      213: 1653810848914728936
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_131
+  - first:
+      213: -1503786521648415658
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_132
+  - first:
+      213: 2126081844810746577
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_133
+  - first:
+      213: 7083780482906930826
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_134
+  - first:
+      213: -7566339401825746955
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_135
+  - first:
+      213: -471767790872785660
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_136
+  - first:
+      213: -3475415256922198287
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_137
+  - first:
+      213: 5128471056779070921
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_138
+  - first:
+      213: -368742707121439115
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_139
+  - first:
+      213: 3852398489158332538
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_140
+  - first:
+      213: 4746339294327987639
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_141
+  - first:
+      213: 7853548128007533299
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_142
+  - first:
+      213: 8892182542080654199
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_143
+  - first:
+      213: -4860680382605455820
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_144
+  - first:
+      213: -6579606566632375966
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_145
+  - first:
+      213: -6939017943273449807
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_146
+  - first:
+      213: -3964950674720003754
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_147
+  - first:
+      213: -1366917623681906227
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_148
+  - first:
+      213: 3883552325694308117
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_149
+  - first:
+      213: -560225647319336270
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_150
+  - first:
+      213: 7121270064701888008
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_151
+  - first:
+      213: -3284246958984577978
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_152
+  - first:
+      213: 7710565953274116592
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_153
+  - first:
+      213: -607601968468995837
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_154
+  - first:
+      213: 2808798500776912849
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_155
+  - first:
+      213: 8740801323096724433
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_156
+  - first:
+      213: 4274365793541957221
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_157
+  - first:
+      213: 7069332613382988917
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_158
+  - first:
+      213: -3146154701859805477
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_159
+  - first:
+      213: 5288335705827587779
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_160
+  - first:
+      213: -1271029624417864232
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_161
+  - first:
+      213: 4730310469013373277
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_162
+  - first:
+      213: 2699723315376591286
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_163
+  - first:
+      213: 903819829506406568
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_164
+  - first:
+      213: 8540161601373801397
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_165
+  - first:
+      213: -7792068202379296981
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_166
+  - first:
+      213: 7966647718471052510
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_167
+  - first:
+      213: -8748609032201082942
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_168
+  - first:
+      213: -5695771499106204884
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_169
+  - first:
+      213: 589082755086612751
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_170
+  - first:
+      213: 4785041099934833507
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_171
+  - first:
+      213: -6960941185557800676
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_172
+  - first:
+      213: 320291395784930660
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_173
+  - first:
+      213: -8409201149974261686
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_174
+  - first:
+      213: 8363316868479876442
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_175
+  - first:
+      213: -3341283975410200977
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_176
+  - first:
+      213: 8756362751198443268
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_177
+  - first:
+      213: -5475735042147353464
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_178
+  - first:
+      213: 2920900899755809157
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_179
+  - first:
+      213: -2413176926614702574
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_180
+  - first:
+      213: 6726761043550266824
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_181
+  - first:
+      213: -4364124966573616288
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_182
+  - first:
+      213: -8146849834795546071
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_183
+  - first:
+      213: -873385540232847803
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_184
+  - first:
+      213: -1740322615834886718
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_185
+  - first:
+      213: -1248622942259254387
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_186
+  - first:
+      213: 8301986990448942298
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_187
+  - first:
+      213: -5091162746901485847
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_188
+  - first:
+      213: -8950193241961594802
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_189
+  - first:
+      213: -1388542356340524772
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_190
+  - first:
+      213: 7523395351263195371
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_191
+  - first:
+      213: -7891483618580425565
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_192
+  - first:
+      213: -2301940059594364440
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_193
+  - first:
+      213: -3066659268753351595
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_194
+  - first:
+      213: 1866441194629881378
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_195
+  - first:
+      213: -3015261803745752536
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_196
+  - first:
+      213: 4285284355748484522
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_197
+  - first:
+      213: -8642191971942909098
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_198
+  - first:
+      213: -401583121737305680
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_199
+  - first:
+      213: -138408868712248145
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_200
+  - first:
+      213: 404560944808781367
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_201
+  - first:
+      213: -1956761744231839909
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_202
+  - first:
+      213: 6398733300407439768
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_203
+  - first:
+      213: -7299698367216659603
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_204
+  - first:
+      213: -2533563427749373494
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_205
+  - first:
+      213: -9139404460759532154
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_206
+  - first:
+      213: -6434898484689208144
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_207
+  - first:
+      213: -482559506729323924
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_208
+  - first:
+      213: 5144093442721574600
+    second: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_209
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 565
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e4c58fa901ed44abae2755b154ce6
+      internalID: 6086470433100071040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 565
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997f41ae5ed3444aa9d5ad5b731e4da
+      internalID: -3702455829125612704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 565
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a8ce37f6a1cb46965033c1b01dcbf
+      internalID: 8033754298623197876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 562
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca47a99db41a33408f3c515f4235e9f
+      internalID: -2550750717995863923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 562
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698afe9475ec604ea904d82d7e3583e
+      internalID: 204944530700231132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 562
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8bc15c57a2944faf68d3f19085df5
+      internalID: -775491691300521626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 565
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d611be2dfa2d8b45a7d270e06a32fdd
+      internalID: 9202304436397376121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 565
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4e65905d78834c89fd11f97047936
+      internalID: -4628945201146383482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 565
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3f434a4d682c4b952afd81fcdaf35
+      internalID: 710946952711494005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 569
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc65f4443e8c5d43a82f1ab17d3b6bd
+      internalID: 2077709302272297215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 550
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294d0bffc16b634ebb65b539cbdf23b
+      internalID: -6566099601270070904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0587973317b6fe6458a0da22437ed621
+      internalID: 5982244002941499286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 549
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fed2317f0beb4ba51a02f724c7c38
+      internalID: -5112248720356722732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950db7a559364048955dd1d440d61d6
+      internalID: -7623937247624622251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b8e47b3055d04da07298d807266d8
+      internalID: -7192511650469163782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 549
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f6ca2158e67f48856549a12a40aca
+      internalID: 7441758256080036972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 549
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51cea0b5a8fa1849b79377ded548caa
+      internalID: -5194108458154644596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 550
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3d9e2480a83a4db0e01ec91ad4fdb
+      internalID: -1823678344334350296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 550
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae7850caeb8ab44af1df53a962e191
+      internalID: 7143479245481944116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 551
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780b3e98fc095b24fa8d4a94a0c3b955
+      internalID: 978801636364420303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 550
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420ded552faa4f42b00136eb151d6eb
+      internalID: 4624166158421656059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b306476f22dfd342b214dbbe563961a
+      internalID: -1263493112037206049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 548
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d98a886e6665d48947d7ac66e440e5
+      internalID: 8933747544859603903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 547
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f707598bf4fcac43a17846e47d2cc12
+      internalID: -6327029123326077177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 548
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad75a4b3f88a804488112417f002ff9
+      internalID: -3713325900271483382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 541
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a858297281a84993f1d4be598a923
+      internalID: -3143995730982624239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 543
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec9995cb8e940438329e1c2007bfe5
+      internalID: -8264604243238094101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 542
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa215b53a799dea43b099382c5350bca
+      internalID: -750297282573870331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 542
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13595fae25a81a4590cd71354bb542f
+      internalID: -5186263391293404210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 542
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743a59ce3a3ea5479ff37e48c2b212a
+      internalID: 7311576637761500394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 514
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa281fe7bc98024888b3268ce4e9c51
+      internalID: 6685738616052582648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 506
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2d619b5910f544a8b6ae5f04a71cd
+      internalID: -5499829856829658081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 474
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7321d64a0d46e41ab0157c497bd4ec
+      internalID: 6732690127739103593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 479
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf346ae15feff478d7772c6e63d199
+      internalID: 3144382253003600730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 477
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d2b2c29a9bee4dbfc3cb66e305912
+      internalID: -9142111990671085296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 473
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e56af7c788dde49b1dd6845963d604
+      internalID: -1997665093904065925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 472
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1541c0a6f909124f822907eb3b60803
+      internalID: 8035489410704218407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 474
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e8dc39f9a57d44bc672d931a894c0
+      internalID: -4642090092527331537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 477
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71615469169a8449ac80f836b7ac274
+      internalID: 4887746541960733098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 483
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f993de5fff6c9408e53fc04b590e1b
+      internalID: -6243100379903170701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 454
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e76b9465d050f54eaf858db7654df9c
+      internalID: -9150317215767338163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 429
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60776d70c62bfd44c916356c138ab759
+      internalID: 4245940435498474085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca1911e86844d4dba92336551a87d1
+      internalID: -1203345405176630374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 432
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed61edd85b54242b822eb034e698c5
+      internalID: -3257806314124529593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 427
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97447b2983d27408dfebd4d349c53c
+      internalID: -4936944272816819798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 426
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d919bb379d074bb0f93cf65688603
+      internalID: -7725827742860609517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 426
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513cb30be9155647aaab5aa87a68084
+      internalID: 755858839364006725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 421
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432e8a6f42828243b0a9ee95f06fc16
+      internalID: -444335386394804688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 421
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54724408c177c584bb52b66ca0c39cdf
+      internalID: 3949385800484793027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 421
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9fa9a4ba5a40c4f91db69b3e38d9a7
+      internalID: -6033941173262019918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 419
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ea5d697f196648a8455fcecbf9798
+      internalID: -8961647800377515974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 419
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a68077858ffb4f948e36c80553d68
+      internalID: 5634247292746652125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 418
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119424e49d6976b428eb9dc3dcad4409
+      internalID: -535814113850050985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 396
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4e136188bdb0478419f7bca132e5a
+      internalID: -1468966580750158206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 394
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e88a1afa5753b4fbbcc51328eb8d61
+      internalID: 595977266589504624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d3d471ee315d14bb9dbc68d99bd2d2
+      internalID: -5937760727653173584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 394
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6092514dddca09641a935f69e64b9cc8
+      internalID: -4352542316786136234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 394
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057d9066c09b694082b426ebb8a21a2
+      internalID: 1551273275438240303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 394
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12644bc7ba095804d9d2b8ed6892bbaa
+      internalID: 8951399260660840544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 394
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc99a8e2659734fbd847292ffc8418
+      internalID: 9193983034980302598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 386
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853a389eb9499e45ba47c4823b23653
+      internalID: 4528980956538560271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 363
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf692c2edcb0e4398b128bde0f4584
+      internalID: -7150174110958614708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 363
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a38296b6f2d994c96465cc016324e9
+      internalID: 1005810934452563494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 363
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7787305b9873b14c9c9672f4ba5fedc
+      internalID: -128090418737177114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 363
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed04ec1f5295bd24787d00ad8668820b
+      internalID: 8168220293741899603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 363
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc903ebc756c94e8f54ac0dc7dc756
+      internalID: -5299578994303092688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 354
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e0aa6f6673f5b47af8f84907157f7c
+      internalID: 6466957468046043542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 325
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff49f7d02a00245b91b1d46f885c83
+      internalID: 4171343477580486907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 331
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d907e242eb0a40af211f717e402c3
+      internalID: -4613236086946563921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 332
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a4358184efbaa4cb166e48ba3d6691
+      internalID: 4602783621659453026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 331
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da81cf7a3dfad47a8d947d1413641b
+      internalID: -6365247184094577197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a880ef7e25ebf348b8aeb9dc8ccfd79
+      internalID: 1018023870699179421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 323
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb034a36854bfca4598e4a22ea1df59a
+      internalID: 6114072114921361627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 315
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6257b410aa8743b3c14a8f0e907c7
+      internalID: 3683541755047283323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 298
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963a42a1724d6646bb646782b7b39fe
+      internalID: 2173409362228127107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ffe0e595da7f94a94928873853e9e2
+      internalID: 3940925429701086001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 298
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb417eaaf0f9e46a2353f36afc3464
+      internalID: 8653663141046357018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 298
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6694f126cae342baf4480e9f63193
+      internalID: -4673550764567089199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4daebf91f629c8489265f7f0e42aeba
+      internalID: 1716185414239182294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc16f4cf2c87cd942a7f29ad2ce43df3
+      internalID: 7574336419738231294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fcc9806fbedcc4787e1dee6253a219
+      internalID: -123087702578018756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c552339b200d1409857b483fe6cbde
+      internalID: -5617632121464957150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322bd6c7e9de7844aa221e2e21ec65f
+      internalID: 5047984239751013492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44290844f5179714ea7dc99090230646
+      internalID: 4009609261215013413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf533552edd0d94ebb0e5a7ef8fafb1
+      internalID: 1861665298985036603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da61e75ce9fdb48a8a5437dc55025c
+      internalID: -4276594840754107291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d1a274507ee2547af19de156d11314
+      internalID: 1606197294797468285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615090f765311034fa270b6f5d041638
+      internalID: -8135130810889305291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee33b6a7236e2145bcace7112a3afaa
+      internalID: -1786583396759492556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 226
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191f8694f86f3d468436e1a6fb68b0b
+      internalID: -7155616681030436827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b830986266bb4cac1515c3b8baab4
+      internalID: 6069096114470496938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 226
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227996d094ebfb43b256a35101c7fa5
+      internalID: 7317136701237986469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 226
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c5972cbc4ea246945dd8be3594363
+      internalID: 5835909405404247620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 226
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0b152c80fc58488dd3ecd08af23c1
+      internalID: 7671507413992704469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 226
+        width: 69
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82ba6efd1f54a468995a17344fdd51
+      internalID: -3971900516582527832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 196
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd5a17cfee9064c858de6261b3a34b
+      internalID: 7580296925435740949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 178
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef0f8c2ac30984a87b5761ab8a2f58
+      internalID: 4977817549482723181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c33d4c51ce1947809ecfc3b3c96bd
+      internalID: -45137584372544953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 178
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0adc918a8c61d479e1da61709e3968
+      internalID: 5097003722832832932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 178
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c06f334ddbd140b02e2e5fa1ee709
+      internalID: 6014387156069668021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb146c36078ef4ab6ff9792d6fa6df
+      internalID: 8315812647919832145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ad4e620a5d394b8e5d19592d4e58c
+      internalID: 7593827962493923796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 178
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec6966605040c046bf5f3677e2fbab7
+      internalID: 6676804598317906211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 179
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb2438d63f809419f28a9ca4a8022c
+      internalID: 3137836674568414833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 179
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43903ef5cf3a14abd9991487bb5247
+      internalID: -6396423774765439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 179
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d923d959bd6c7bf499078092b3f1cc3c
+      internalID: 2798041082931524714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0909536cee1d834b8ac2c0f17f7ff7f
+      internalID: 7257310801407487396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ab204a2e74c94b81529410a3537ce
+      internalID: -7365331031379571724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28058b43a81a47140b8b66da5d893b52
+      internalID: 7038348903028755736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65946dfca8a80394bbce3064eb873207
+      internalID: 5754125963340938506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 162
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afadd5aa863ee104f8cf2c16f85e2a09
+      internalID: -5021896260999249743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 162
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b375b69f41d8448b87df613a8d7cb7
+      internalID: 3209236024785174024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 164
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8911998d695ff4ba75dc0d4d1432f0
+      internalID: 3035274337764316738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6cacb8ea7ef848a26dfc2f4d2ffe0
+      internalID: -5315461612827319410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a9555629af6245949c49f8e285ece
+      internalID: -3921651606107273537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff000010ba9db9e4bb34304801335d9d
+      internalID: -1652477767550419905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1800c00e9f2b14396636460228d67c
+      internalID: 2777129278623573037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ccaba78a03654468643a4067a24658
+      internalID: 1701144836767433843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 147
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f405d965170e92f4e989077710f6c24d
+      internalID: -2454496437796194514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 146
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9453e981b196f14b981848abd06bc1a
+      internalID: -5106002908204746813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 146
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c847238cf1334886950a7aa3d865d
+      internalID: 8963123973564344517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691794443ed16a458e80601247705fa
+      internalID: -2144357233467249326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 131
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa24a1e372cdcf41a3bed727e2dd51f
+      internalID: -6210614124639873609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 147
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efef54d1f6bbb7419209543a9fa9f01
+      internalID: -6105073527520514228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb862095fce81458054129e2743e84
+      internalID: 3589039702235810017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 147
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761fdf3cdc219d34e92f16011b6a5205
+      internalID: 2874665757151928608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 131
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9aeba7825fc534b879b62b3cf0fe4e
+      internalID: 7116446437961446373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 114
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10d08012c1943449afbd1e0f9261b1
+      internalID: -5788917943460621075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2dd220080c284492299e3683a9241
+      internalID: -787503722387641787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc1fcff9d3607419cf2d6fd639df84
+      internalID: 3181502805774414227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e217c55ae0874fbbd9b0290156395
+      internalID: 5142445555770360287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 132
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62041f46a279dd94cb2ecf36dff4af8c
+      internalID: 1653810848914728936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 131
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807bea34f41ef0f4a9a99086ce0536b4
+      internalID: -1503786521648415658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83561f1f77a44d942b4d9e982969b785
+      internalID: 2126081844810746577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db519dd0078a06b4b8a2446b04e9fa76
+      internalID: 7083780482906930826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8862c81dc863be43baf6a69e1d19e84
+      internalID: -7566339401825746955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516fac999a9820c46afb830e5736aea0
+      internalID: -471767790872785660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b67873faf87b40a7e033e682d5fe4
+      internalID: -3475415256922198287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 82
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6cf68d6e8d174daab8d0de75714c8
+      internalID: 5128471056779070921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee5499f6b9dc0a4eb8557511224daed
+      internalID: -368742707121439115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaadd2035c65504a90405af28cf4571
+      internalID: 3852398489158332538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a5d382ef516948b3655a90af41336
+      internalID: 4746339294327987639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e3061aff56ec43b23b7b6aa6bb920
+      internalID: 7853548128007533299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d31e8852e0bc045854051ac570ce76
+      internalID: 8892182542080654199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 50
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62c938b21939b4cbaf80e7db86d426
+      internalID: -4860680382605455820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 50
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82992889f63749843869d85fc6ae9e0f
+      internalID: -6579606566632375966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 50
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e5f1831da1f840a1f1e2879e305d0
+      internalID: -6939017943273449807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 70
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0656c0db8c6045b1a476c52d18f81
+      internalID: -3964950674720003754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f23a94c52d542244a9762f3c0f00847
+      internalID: -1366917623681906227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 58
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e4ea4551f3bb47a3d8be34e2b909d
+      internalID: 3883552325694308117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e1a544382d6741871a1cde7c9c27e
+      internalID: -560225647319336270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 62
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e098001d711ab438b2fd8a65403e0d
+      internalID: 7121270064701888008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 30
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0011e5fd3f7e3949882fd6581d622ed
+      internalID: -3284246958984577978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae7d761ea62db4c91290122a14c60c
+      internalID: 7710565953274116592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a3d2207590d94fa2612a53df48f3d
+      internalID: -607601968468995837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfffa9b70262d844bbe8c232d78c014f
+      internalID: 2808798500776912849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c5b5e787012e4e8c5c86ba2b50140
+      internalID: 8740801323096724433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb5567fffeb83498f6aabbeb7b073f
+      internalID: 4274365793541957221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422cf6dfe16b46d4ab28d15ff70c8395
+      internalID: 7069332613382988917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84716e08162e24cb2188b6286e1938
+      internalID: -3146154701859805477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d06631b1c0914687c6805bb75ebe6
+      internalID: 5288335705827587779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6c52679926124d8787e88b6518edb
+      internalID: -1271029624417864232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a415efc9cdfc4dab288ae98d848dd
+      internalID: 4730310469013373277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd9b6f3e8c6a745ad937f4860db4a9
+      internalID: 2699723315376591286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761d08a1040e204f858259334b2ff60
+      internalID: 903819829506406568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979aee3bfe4bcd44b8dc7f24abe7384
+      internalID: 8540161601373801397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b6fc12930540459ea11d6850c4c92
+      internalID: -7792068202379296981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c639a06e23690428d7b991945ddd2a
+      internalID: 7966647718471052510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07a2e3ce0243e448882a763d1d3b0c
+      internalID: -8748609032201082942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811006f2a86c9840a229fafe4f8e9e1
+      internalID: -5695771499106204884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5815253ca92bab40a75be18ebb0e865
+      internalID: 589082755086612751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c88d6300b0884409e21275e2c639d9
+      internalID: 4785041099934833507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494c6944587caf499a69a0e23f8190c
+      internalID: -6960941185557800676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 17
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8362b9525b94db42a8682a6490dd378
+      internalID: 320291395784930660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f550529c9722e3409ffb35bcff656aa
+      internalID: -8409201149974261686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889b7f99fae9d6458678746608604d8
+      internalID: 8363316868479876442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df77d5ee563d946a745237aa52c64d
+      internalID: -3341283975410200977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5d08f4fd5efb4cb8e65f844497ae7
+      internalID: 8756362751198443268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0794a1f5441cbe649854fe17ef5a2bbe
+      internalID: -5475735042147353464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63b20c78f98ab4ba58e9c16f46cadb
+      internalID: 2920900899755809157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df711003eb413a84ab2dd6664c6bb096
+      internalID: -2413176926614702574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4fa18954de45a4c80b99895c15ab26
+      internalID: 6726761043550266824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c7d4f2a2e34242a24f854ed9adb0d
+      internalID: -4364124966573616288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf647a7f679f140935ef0b0ff8f21b
+      internalID: -8146849834795546071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065305c77e2c00a4f9c1d2d2520a7b48
+      internalID: -873385540232847803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3f53a13a4ac845858567921a5615e
+      internalID: -1740322615834886718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 16
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb4d0a421d4d68419b74c6565b3f86f
+      internalID: -1248622942259254387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25a28e6960fb446a81f8f6d408a459
+      internalID: 8301986990448942298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b224eeeea5f45e4dbd898041d5e6059
+      internalID: -5091162746901485847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65206312722c8e6408f627b5930d54c8
+      internalID: -8950193241961594802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8a985cfabb9248b83686d77c13492
+      internalID: -1388542356340524772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388228f8428fd540857d93498a1464a
+      internalID: 7523395351263195371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6664a6675712a1408cde65b23b2cbf7
+      internalID: -7891483618580425565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cec4abb200ee2468ca1d4baea3d1a4
+      internalID: -2301940059594364440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca1cddb8f31134e96b9969ecc597ca
+      internalID: -3066659268753351595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e3f30e0b7e7849a302d9449e912a1
+      internalID: 1866441194629881378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367af4ebbf33f734c898b00f5f448457
+      internalID: -3015261803745752536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44324ead595932242922f479ee9fe357
+      internalID: 4285284355748484522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ea109c1d27a144a66bf39daad3f18
+      internalID: -8642191971942909098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f22d289e4e9cbf458b24d7057022d3c
+      internalID: -401583121737305680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de40b7621363644bba34eb34f99f279
+      internalID: -138408868712248145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b312611dc81d74a853b2b0de3af04e
+      internalID: 404560944808781367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742e58073000744d94b4ac83107d658
+      internalID: -1956761744231839909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647226c2461bc340a96c4bd160041ab
+      internalID: 6398733300407439768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed23713567ea74aaef792f2b61cd60
+      internalID: -7299698367216659603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1632c734d84d4fb4ebd69f9a20b12f29
+      internalID: -2533563427749373494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5444787a15fb14f8e9c4751734cb6e
+      internalID: -9139404460759532154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d67979bcc9874f9214bc2c2387c70
+      internalID: -6434898484689208144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34def58873321304f840f48ee1f921dc
+      internalID: -482559506729323924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Brinstar Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 154
+        width: 74
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cf9249f6fd8c4d9068c55628ec1fb
+      internalID: 5144093442721574600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ramalhoRewardConteinar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPastel"
+    tools:context=".CharactersRewards">
+
+    <TextView
+        android:id="@+id/rewardTittle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text="@string/charactersRewards"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/materialCardView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView"
+        android:layout_width="409dp"
+        android:layout_height="135dp"
+        app:cardBackgroundColor="#d6d3f0"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/ecaRewardConteiner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rewardTittle"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <LinearLayout
+            android:id="@+id/layoutRamalho"
+            android:layout_width="397dp"
+            android:layout_height="131dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ramlhoRewards"
+                android:layout_width="138dp"
+                android:layout_height="113dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/todo"
+                app:srcCompat="@drawable/ramalho_ortigao" />
+
+            <TextView
+                android:id="@+id/ramalhoReward1"
+                android:layout_width="141dp"
+                android:layout_height="125dp"
+                android:layout_weight="1"
+                android:text="@string/reward_1"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="viewStart" />
+
+            <TextView
+                android:id="@+id/ramalhoReward2"
+                android:layout_width="125dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:text="@string/reward_2"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/comlpeteRamalho"
+            android:layout_width="389dp"
+            android:layout_height="120dp"
+            android:fontFamily="serif"
+            android:text="Completed!"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/ecaRewardConteiner"
+        android:layout_width="409dp"
+        android:layout_height="135dp"
+        app:cardBackgroundColor="#d6d3f0"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/guerraRewardConteiner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/materialCardView"
+        app:layout_constraintVertical_bias="0.557"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <LinearLayout
+            android:id="@+id/layoutEca"
+            android:layout_width="386dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ecaRewards"
+                android:layout_width="141dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/todo"
+                app:srcCompat="@drawable/eca_de_queiros" />
+
+            <TextView
+                android:id="@+id/ecaReward1"
+                android:layout_width="141dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:text="@string/reward_1"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/ecaReward2"
+                android:layout_width="125dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:text="@string/reward_2"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="center" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/comlpeteEca"
+            android:layout_width="389dp"
+            android:layout_height="107dp"
+            android:fontFamily="serif"
+            android:text="Completed!"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/guerraRewardConteiner"
+        android:layout_width="409dp"
+        android:layout_height="135dp"
+        app:cardBackgroundColor="#d6d3f0"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ecaRewardConteiner"
+        app:layout_constraintVertical_bias="0.865"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <LinearLayout
+            android:id="@+id/layoutGuerra"
+            android:layout_width="386dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/guerraRewards"
+                android:layout_width="141dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/todo"
+                app:srcCompat="@drawable/guerra_junqueiro" />
+
+            <TextView
+                android:id="@+id/guerraReward1"
+                android:layout_width="132dp"
+                android:layout_height="121dp"
+                android:layout_weight="1"
+                android:text="@string/reward_1"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/guerraReward2"
+                android:layout_width="125dp"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:text="@string/reward_2"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:textAlignment="center" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/comlpeteGuerra"
+            android:layout_width="389dp"
+            android:layout_height="107dp"
+            android:fontFamily="serif"
+            android:text="Completed!"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible" />
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

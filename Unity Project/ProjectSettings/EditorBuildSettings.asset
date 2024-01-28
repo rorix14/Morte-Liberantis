@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5a1b24cd88f289148bd2fbcf41e9b7aa
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 0aed5c0b5694f3543a85db9f28297bf0
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: f39a911529bd4e34b97619b29d4b7d0d
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 81d1847857f278441987921e7d7e0fde
+  - enabled: 1
+    path: Assets/Scenes/Log In Menu.unity
+    guid: e9aaf3e34ded0b1459f2315b1b93fbb8
+  - enabled: 1
+    path: Assets/Scenes/Register Menu.unity
+    guid: 95d668765a36712489028252212dd3f4
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 1.unity
+    guid: 3103224796aeced4fa9df491c04e2f19
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 2.unity
+    guid: b60d105273ac7aa46929ae045b6b45fd
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 3.unity
+    guid: dbd37ea1c04bc634f84fa05b406bb3b7
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 4.unity
+    guid: 0dce20a8f4739b94f8a6d4f6aba8c23f
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 5.unity
+    guid: c71cff4234d8e3a4d8c775dcd18ac8ff
+  - enabled: 1
+    path: Assets/Scenes/Play Off Line Menu.unity
+    guid: 386a75481439b0441ac5005579958618
+  - enabled: 1
+    path: Assets/Scenes/Invade Menu.unity
+    guid: c48da5f1ee030cd41a1309359bb49f6d
+  - enabled: 1
+    path: Assets/Scenes/test scene/test 6.unity
+    guid: e24dc909bf2aaee4da9e74061f0d0daf
+  m_configObjects: {}

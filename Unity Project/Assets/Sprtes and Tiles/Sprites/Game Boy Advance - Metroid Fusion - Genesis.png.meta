@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 26c0cad8508317149854683c814d53a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6523451021498569206
+    second: Game Boy Advance - Metroid Fusion - Genesis_0
+  - first:
+      213: -4738426704305065049
+    second: Game Boy Advance - Metroid Fusion - Genesis_1
+  - first:
+      213: -3551064829494113045
+    second: Game Boy Advance - Metroid Fusion - Genesis_2
+  - first:
+      213: -5131650593256640158
+    second: Game Boy Advance - Metroid Fusion - Genesis_3
+  - first:
+      213: -4963162278131766179
+    second: Game Boy Advance - Metroid Fusion - Genesis_4
+  - first:
+      213: 6143748297696997123
+    second: Game Boy Advance - Metroid Fusion - Genesis_5
+  - first:
+      213: -1355087504154176892
+    second: Game Boy Advance - Metroid Fusion - Genesis_6
+  - first:
+      213: -607082241543747224
+    second: Game Boy Advance - Metroid Fusion - Genesis_7
+  - first:
+      213: -5839369717242978567
+    second: Game Boy Advance - Metroid Fusion - Genesis_8
+  - first:
+      213: -6014824353985883234
+    second: Game Boy Advance - Metroid Fusion - Genesis_9
+  - first:
+      213: 5861819868296212524
+    second: Game Boy Advance - Metroid Fusion - Genesis_10
+  - first:
+      213: -1514693960632620212
+    second: Game Boy Advance - Metroid Fusion - Genesis_11
+  - first:
+      213: 2822218664084392493
+    second: Game Boy Advance - Metroid Fusion - Genesis_12
+  - first:
+      213: -5375644285711297808
+    second: Game Boy Advance - Metroid Fusion - Genesis_13
+  - first:
+      213: 5958701153264594785
+    second: Game Boy Advance - Metroid Fusion - Genesis_14
+  - first:
+      213: 6917102405985553699
+    second: Game Boy Advance - Metroid Fusion - Genesis_15
+  - first:
+      213: 2072649510748200141
+    second: Game Boy Advance - Metroid Fusion - Genesis_16
+  - first:
+      213: 731998633858617381
+    second: Game Boy Advance - Metroid Fusion - Genesis_17
+  - first:
+      213: -4707309133532374781
+    second: Game Boy Advance - Metroid Fusion - Genesis_18
+  - first:
+      213: -498874435315975516
+    second: Game Boy Advance - Metroid Fusion - Genesis_19
+  - first:
+      213: -2525030631675055166
+    second: Game Boy Advance - Metroid Fusion - Genesis_20
+  - first:
+      213: 8832457010568215886
+    second: Game Boy Advance - Metroid Fusion - Genesis_21
+  - first:
+      213: -1530063772771068393
+    second: Game Boy Advance - Metroid Fusion - Genesis_22
+  - first:
+      213: 4962347855200765967
+    second: Game Boy Advance - Metroid Fusion - Genesis_23
+  - first:
+      213: 1173933360558163623
+    second: Game Boy Advance - Metroid Fusion - Genesis_24
+  - first:
+      213: 2155318535215113123
+    second: Game Boy Advance - Metroid Fusion - Genesis_25
+  - first:
+      213: -6717295600625082205
+    second: Game Boy Advance - Metroid Fusion - Genesis_26
+  - first:
+      213: -1641189827150235944
+    second: Game Boy Advance - Metroid Fusion - Genesis_27
+  - first:
+      213: -6629748130666115898
+    second: Game Boy Advance - Metroid Fusion - Genesis_28
+  - first:
+      213: 7753887221822741777
+    second: Game Boy Advance - Metroid Fusion - Genesis_29
+  - first:
+      213: -8481553322142390106
+    second: Game Boy Advance - Metroid Fusion - Genesis_30
+  - first:
+      213: 2831893858170204989
+    second: Game Boy Advance - Metroid Fusion - Genesis_31
+  - first:
+      213: 995523684444485400
+    second: Game Boy Advance - Metroid Fusion - Genesis_32
+  - first:
+      213: 116730944752462610
+    second: Game Boy Advance - Metroid Fusion - Genesis_33
+  - first:
+      213: 1422900767049822163
+    second: Game Boy Advance - Metroid Fusion - Genesis_34
+  - first:
+      213: -4998478167925513129
+    second: Game Boy Advance - Metroid Fusion - Genesis_35
+  - first:
+      213: -596464216301301875
+    second: Game Boy Advance - Metroid Fusion - Genesis_36
+  - first:
+      213: 5659069844916852746
+    second: Game Boy Advance - Metroid Fusion - Genesis_37
+  - first:
+      213: 4612598388694544832
+    second: Game Boy Advance - Metroid Fusion - Genesis_38
+  - first:
+      213: 9002849376178176828
+    second: Game Boy Advance - Metroid Fusion - Genesis_39
+  - first:
+      213: -2453371986293795574
+    second: Game Boy Advance - Metroid Fusion - Genesis_40
+  - first:
+      213: -3321063822555920687
+    second: Game Boy Advance - Metroid Fusion - Genesis_41
+  - first:
+      213: 4370102824794694522
+    second: Game Boy Advance - Metroid Fusion - Genesis_42
+  - first:
+      213: 6762866314895550414
+    second: Game Boy Advance - Metroid Fusion - Genesis_43
+  - first:
+      213: -2044447382398087840
+    second: Game Boy Advance - Metroid Fusion - Genesis_44
+  - first:
+      213: 1852966242175713956
+    second: Game Boy Advance - Metroid Fusion - Genesis_45
+  - first:
+      213: 3021166506179014897
+    second: Game Boy Advance - Metroid Fusion - Genesis_46
+  - first:
+      213: 1541327448044235037
+    second: Game Boy Advance - Metroid Fusion - Genesis_47
+  - first:
+      213: -6285753098461597367
+    second: Game Boy Advance - Metroid Fusion - Genesis_48
+  - first:
+      213: -8940559007997354450
+    second: Game Boy Advance - Metroid Fusion - Genesis_49
+  - first:
+      213: 422256364388538866
+    second: Game Boy Advance - Metroid Fusion - Genesis_50
+  - first:
+      213: 7564868790177835079
+    second: Game Boy Advance - Metroid Fusion - Genesis_51
+  - first:
+      213: -7799574958954113409
+    second: Game Boy Advance - Metroid Fusion - Genesis_52
+  - first:
+      213: 5816321690513802414
+    second: Game Boy Advance - Metroid Fusion - Genesis_53
+  - first:
+      213: -5779229429976460628
+    second: Game Boy Advance - Metroid Fusion - Genesis_54
+  - first:
+      213: 8661644342753177794
+    second: Game Boy Advance - Metroid Fusion - Genesis_55
+  - first:
+      213: 13584079885629915
+    second: Game Boy Advance - Metroid Fusion - Genesis_56
+  - first:
+      213: -4445263590400642098
+    second: Game Boy Advance - Metroid Fusion - Genesis_57
+  - first:
+      213: 4898756399189709998
+    second: Game Boy Advance - Metroid Fusion - Genesis_58
+  - first:
+      213: -1535447755579919109
+    second: Game Boy Advance - Metroid Fusion - Genesis_59
+  - first:
+      213: 3554674085911779799
+    second: Game Boy Advance - Metroid Fusion - Genesis_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248d40d7b2972b4fbba70239c5fce23
+      internalID: 6523451021498569206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 620
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86d55c59bac16d4daa855fe00846473
+      internalID: -4738426704305065049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 620
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225c6329e34db942a0c2612d5335e9c
+      internalID: -3551064829494113045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 619
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540d3df6ee544624bbcde55e3730f666
+      internalID: -5131650593256640158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 620
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ffd778800fc2a4d957344464e6c0fc
+      internalID: -4963162278131766179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 620
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6897dded499f0041b6b220270f67208
+      internalID: 6143748297696997123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 567
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e12ca13a9c0f4b92620ce44396831
+      internalID: -1355087504154176892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 567
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0b8bee0a70074790068cd89ba2600
+      internalID: -607082241543747224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 567
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17acac7f78f9a749b3154fe76ac3509
+      internalID: -5839369717242978567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 566
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d67ddfe0275b45ace2509fa7a8a52
+      internalID: -6014824353985883234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 567
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a6e52a3fe917f48b17250dd9a35c6d
+      internalID: 5861819868296212524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 567
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa5b08f7189b441a64ab37ff3b20ea
+      internalID: -1514693960632620212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cc15875c74064485a4db04af5af94
+      internalID: 2822218664084392493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 513
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396e70fb0a38c844a648459498417b0
+      internalID: -5375644285711297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 513
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e7982825200e44a77ce11b34efaf1
+      internalID: 5958701153264594785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 445
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779281f00b0e6e5419287e6d2fa945b7
+      internalID: 6917102405985553699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 441
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df330b2e32183764ba68c7665092274d
+      internalID: 2072649510748200141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 445
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1386c5745a6cb468b7db389d99bef9
+      internalID: 731998633858617381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204564639cea1f418d6d470086f17fa
+      internalID: -4707309133532374781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 388
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302d7d9ddfbc2c489b0d19301652ca7
+      internalID: -498874435315975516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 392
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6966f9a4db47e43a16a98cdd11e367
+      internalID: -2525030631675055166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d6132cc30c96446b4263086a8da6df
+      internalID: 8832457010568215886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 354
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945691000616d644599264392d6f12cd
+      internalID: -1530063772771068393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 355
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c002e7c166fa29c489b1d0b34e8c5366
+      internalID: 4962347855200765967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 302
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71741ae22de6046a433aa1b9d30da4
+      internalID: 1173933360558163623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 302
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad965c13331e241989e0210dd46d66
+      internalID: 2155318535215113123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 301
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca49ef4f17993d5419c7cfcb07085e6c
+      internalID: -6717295600625082205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 302
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceea78700f49d846847e1183b8bbb65
+      internalID: -1641189827150235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595722c8133e9e43b57f1969e9d0743
+      internalID: -6629748130666115898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 196
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db897a51f1e0d14ca5448a99a70a4b4
+      internalID: 7753887221822741777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3041e94ab9a6554b9da77e50f31e94c
+      internalID: -8481553322142390106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320c890f24845544a63e9dbc096de34
+      internalID: 2831893858170204989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be20c67354ad70e4699c5df8c4a74e6f
+      internalID: 995523684444485400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97860b5d7eb0ac45891b49df167408a
+      internalID: 116730944752462610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe66de65164284997695ed197b7c96
+      internalID: 1422900767049822163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c988497677cc4945966ab787681e33c
+      internalID: -4998478167925513129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 143
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa4d1e8032869418bfb9dc7f5e21b7
+      internalID: -596464216301301875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 142
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f66c18f271e3d458e7e5985a3045e2
+      internalID: 5659069844916852746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 141
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77adb77e5a2b949b0b346105a3b019
+      internalID: 4612598388694544832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 139
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14fe400550db234a93c22a9fdfca5e3
+      internalID: 9002849376178176828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 138
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b738805a29a32a499791ca6a19efcfe
+      internalID: -2453371986293795574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 132
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037de61e795ea2349bde5ce007c43c2e
+      internalID: -3321063822555920687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 143
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8e7c70c5ef1f40aa832352061c3d4
+      internalID: 4370102824794694522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 127
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0156f1890c8a64db0d47cef727601b
+      internalID: 6762866314895550414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_44
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ba6c7fe245db4a9afaf23fb3a28f2
+      internalID: -2044447382398087840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 123
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10306d7ada37f8b4aa4990de877f9025
+      internalID: 1852966242175713956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_46
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06943d649f2ec42bb75913682c69ff
+      internalID: 3021166506179014897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_47
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 119
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea2a4a328b071745b0a37d9737a5b01
+      internalID: 1541327448044235037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_48
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f9e2642269d745afa73a56a71c6cf
+      internalID: -6285753098461597367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_49
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 116
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e09c777d8bc749a3efcd3ae099160
+      internalID: -8940559007997354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_50
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36085304b49e5754b991ddced47812ba
+      internalID: 422256364388538866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_51
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 116
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f3ef5b5d982a4a866a7cde4deea06
+      internalID: 7564868790177835079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_52
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5e2adf4902fd4d8feb90ed5e4c022
+      internalID: -7799574958954113409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_53
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 114
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f915240108cf4cbaec76c2db3d354
+      internalID: 5816321690513802414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_54
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 143
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ca806def267f45be5bcaf526e4ab2
+      internalID: -5779229429976460628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 123
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0cd3a3676ca1468bf65f0cd931003
+      internalID: 8661644342753177794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 125
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c123ea1bb4bf45a92434072faa129
+      internalID: 13584079885629915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_57
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 126
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c564fda643770c2409f9fc85e816253e
+      internalID: -4445263590400642098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1260
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bcf8e71de130545b64bed7d84ca816
+      internalID: 4898756399189709998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_59
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e405021f6ab547a67cf3d4f2a482c
+      internalID: -1535447755579919109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Genesis_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4a81b8e4e4a245ad5539508c481ed
+      internalID: 3554674085911779799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

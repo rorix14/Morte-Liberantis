@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ead65c9bc360c74da2e13d884ad8e9e, type: 3}
+  m_Name: BB Path 2
+  m_EditorClassIdentifier: 
+  pathPrefab:
+  - {fileID: 2099723982784308730, guid: 8304dc79e0fc6ce4fa3931e1a19c1f0e, type: 3}
+  - {fileID: 4741543661129970002, guid: 97718d4ed55e4f04796b85e54d06f0ae, type: 3}
+  - {fileID: 6638036256642910249, guid: bee536c3663f9e24abfd8914141a8a9a, type: 3}
+  moveSpeed:
+  - 7
+  - 2
+  - 7

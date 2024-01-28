@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbfe87b39a43003409a5d8b26c410a9e, type: 3}
+  m_Name: "E\xE7a Wave"
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 5195388546041268419, guid: d84e55727e29aa344909615d01badd62,
+    type: 3}
+  pathPrefab: {fileID: 4169706546565443392, guid: 8cfd9836bcaf941488796985071fe4c2,
+    type: 3}
+  moveSpeed: 8
+  maxHealth: 500
+  shootVelocity: 1100
+  timeBeteewnShots: 0.4
+  fireRoutine: 0
+  missilePrfab: {fileID: 2111232412691436956, guid: 80acca12ef629504bb2e12295b6bc99b,
+    type: 3}

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".friends"
+    android:background = "@color/colorPastel">
+
+    <TextView
+        android:id="@+id/friensTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="serif"
+        android:text="@string/friends_page"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/anteroContiner"
+        style="@style/Widget.MaterialComponents.CardView"
+        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+        android:layout_marginTop="@dimen/mtrl_card_spacing"
+        android:layout_marginRight="@dimen/mtrl_card_spacing"
+        android:minHeight="200dp"
+        android:layout_width="175dp"
+        android:layout_height="239dp"
+        app:cardBackgroundColor="#f0e3d3"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/guerraConteiner"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.987">
+
+        <ImageView
+            android:id="@+id/antero"
+            android:layout_width="171dp"
+            android:layout_height="195dp"
+            android:contentDescription="@string/friendnpc"
+            app:srcCompat="@drawable/antero" />
+    </androidx.cardview.widget.CardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/ramalhoOrtigaoConteiner"
+        style="@style/Widget.MaterialComponents.CardView"
+        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+        android:layout_marginTop="@dimen/mtrl_card_spacing"
+        android:layout_marginRight="@dimen/mtrl_card_spacing"
+        android:minHeight="200dp"
+        android:layout_width="214dp"
+        android:layout_height="143dp"
+        android:tag="ramalho"
+        android:alpha="0.5"
+        app:cardBackgroundColor="#d6b791"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/ecaCoiteiner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/friensTitle"
+        app:layout_constraintVertical_bias="0.579"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <ImageView
+            android:id="@+id/ramalhoOrtigao"
+            android:layout_width="156dp"
+            android:layout_height="139dp"
+            android:contentDescription="@string/friendnpc"
+            android:tag="ramalho"
+            app:srcCompat="@drawable/ramalho_ortigao" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/ecaCoiteiner"
+        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+        android:layout_marginTop="@dimen/mtrl_card_spacing"
+        android:layout_marginRight="@dimen/mtrl_card_spacing"
+        android:minHeight="200dp"
+        android:layout_width="213dp"
+        android:layout_height="139dp"
+        android:alpha="0.5"
+        android:tag="eça"
+        app:cardBackgroundColor="#d6b791"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/guerraConteiner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ramalhoOrtigaoConteiner"
+        app:layout_constraintVertical_bias="0.0"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <ImageView
+            android:id="@+id/eca"
+            android:layout_width="156dp"
+            android:layout_height="139dp"
+            android:contentDescription="@string/friendnpc"
+            android:tag="eça"
+            app:srcCompat="@drawable/eca_de_queiros" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/guerraConteiner"
+        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+        android:layout_marginTop="@dimen/mtrl_card_spacing"
+        android:layout_marginRight="@dimen/mtrl_card_spacing"
+        android:minHeight="200dp"
+        android:layout_width="213dp"
+        android:layout_height="142dp"
+        android:alpha="0.5"
+        android:tag="guerra"
+        app:cardBackgroundColor="#d6b791"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ecaCoiteiner"
+        app:layout_constraintVertical_bias="0.0"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <ImageView
+            android:id="@+id/guerraJunqueiro"
+            android:layout_width="156dp"
+            android:layout_height="139dp"
+            android:contentDescription="@string/friendnpc"
+            android:tag="guerra"
+            app:srcCompat="@drawable/guerra_junqueiro" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <Button
+        android:id="@+id/rewardsBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:text="Rewards"
+        app:layout_constraintBottom_toTopOf="@+id/anteroContiner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.623"
+        app:layout_constraintStart_toEndOf="@+id/ecaCoiteiner"
+        app:layout_constraintTop_toBottomOf="@+id/friensTitle"
+        app:layout_constraintVertical_bias="0.334"
+        android:visibility="gone"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

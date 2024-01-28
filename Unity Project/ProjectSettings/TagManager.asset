@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Forground
+  - Save Point
+  - Game Scession
+  - Boss
+  - Invader Spawn
+  - Invader
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climing
+  - Player
+  - Background
+  - Enemy
+  - Hazard
+  - Interactables
+  - RisingWater
+  - PlayerProjectiles
+  - EnemyPatrolVision
+  - EnemyPatrolShoot
+  - EnemyObstecleVision
+  - PlayerInvader
+  - InvaderProjectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroud
+    uniqueID: 850304773
+    locked: 0
+  - name: Climing
+    uniqueID: 2244784475
+    locked: 0
+  - name: Hazard
+    uniqueID: 3184895887
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1559808849
+    locked: 0
+  - name: Interactables
+    uniqueID: 1958415649
+    locked: 0
+  - name: Enemy
+    uniqueID: 2281884031
+    locked: 0
+  - name: Player
+    uniqueID: 2562022447
+    locked: 0
+  - name: RisingWater
+    uniqueID: 349611083
+    locked: 0
+  - name: Forground
+    uniqueID: 2208170453
+    locked: 0

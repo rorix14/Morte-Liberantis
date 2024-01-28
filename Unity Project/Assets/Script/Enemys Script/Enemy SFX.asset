@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae3b93138e8e8e439797486c14c2e97, type: 3}
+  m_Name: Enemy SFX
+  m_EditorClassIdentifier: 
+  hurtAudioClips:
+  - {fileID: 8300000, guid: bdd941ddca5453f47b2d117179f2ba3a, type: 3}
+  - {fileID: 8300000, guid: f68d6e95bc7223948b9eb338005f0e0c, type: 3}
+  - {fileID: 8300000, guid: 442127a9cdb96be489d42adfa683683c, type: 3}
+  hurtVolume: 0.25
+  shootAudioClips:
+  - {fileID: 8300000, guid: f0844b860345c794b805db8f9b1dbed3, type: 3}
+  - {fileID: 8300000, guid: 8df50475e81d2a54eb7eb5766981207d, type: 3}
+  - {fileID: 8300000, guid: 48b7e80522b557141b7af002e23d5076, type: 3}
+  shootVolume: 0.133
+  jumpAudioClips:
+  - {fileID: 8300000, guid: afca2bc1117264d4d96b260949b0e445, type: 3}
+  - {fileID: 8300000, guid: 7e931d8a900a87a498172ed795303260, type: 3}
+  - {fileID: 8300000, guid: 8a3ace2c24d4e3041a03056f2da9d37c, type: 3}
+  jumpVolume: 0.08
+  explosionAudioClip: {fileID: 8300000, guid: 5626ca7d798fa104c8bce2d0e024515d, type: 3}
+  explosionVolume: 0.18
+  destroyedAudioClips:
+  - {fileID: 8300000, guid: 657d45249b38efb4bb5d93af9081545c, type: 3}
+  - {fileID: 8300000, guid: 0b3e10dee768bf44e884007e2bdcfccc, type: 3}
+  destroyedVolume: 0.3
+  destroyEffect: {fileID: 2335225754392214496, guid: 1101acc0c8ffbd542a266bc2efe8290f,
+    type: 3}
+  bossShootAudioClips:
+  - {fileID: 8300000, guid: d7dd59b4a30d1d64087674b211337d1e, type: 3}
+  - {fileID: 8300000, guid: 4b9d2fdf114aa154b84e3b4e43596a7a, type: 3}
+  - {fileID: 8300000, guid: 8f29007343ca54c458af15d63372a345, type: 3}
+  boosShootVolume: 0.6

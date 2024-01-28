@@ -1,0 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemyTypes : MonoBehaviour
+{
+    [SerializeField]
+    public string enemyType;
+}

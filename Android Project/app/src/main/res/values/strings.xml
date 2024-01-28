@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppBluePrint</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="login_title">Morte Liberantis</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="optionsText">Options Text: &#xD; &#xA; Option 1 &#xD; &#xA; Option 2 &#xD; &#xA; Option 3</string>
+    <string name="textAdventureText">This is were the npc will have its dialog displayed and its different outcomes</string>
+    <string name="friendnpc">FriendNpc</string>
+    <string name="talkbubble">TalkBubble</string>
+    <string name="antero_de_quental">Antero de Quental</string>
+    <string name="play">Play</string>
+    <string name="option1">Button</string>
+    <string name="logo">LOGO</string>
+    <string name="friends_page">Cenáculo</string>
+    <string name="charactersRewards">Rewards!</string>
+    <string name="reward_1">Reward 1</string>
+    <string name="reward_2">Reward 2</string>
+    <string name="todo">TODO</string>
+    <string name="daily_quest_text">This is were the daily text will goto.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

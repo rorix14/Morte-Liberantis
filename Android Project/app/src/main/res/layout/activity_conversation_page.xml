@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPastel"
+    tools:context=".ConversationPage">
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cardView2"
+        android:layout_width="412dp"
+        android:layout_height="161dp"
+        app:cardBackgroundColor="#d6b791"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="3dp"
+        app:layout_constraintBottom_toTopOf="@+id/cardView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.228"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.579"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/npcDialog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginHorizontal="10dp"
+            android:contentDescription="@string/talkbubble"
+            android:fontFamily="serif"
+            android:textStyle="bold|italic"
+            android:text="@string/textAdventureText"
+            android:textSize="24sp" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView2"
+        android:layout_width="404dp"
+        android:layout_height="278dp"
+        android:layout_marginTop="2dp"
+        app:cardBackgroundColor="#d6d3f0"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView"
+        app:strokeColor="@color/cardview_shadow_start_color"
+        app:strokeWidth="10dp">
+
+        <LinearLayout
+            android:layout_width="389dp"
+            android:layout_height="241dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/option1"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:text="Option 1"
+                android:textAllCaps="false"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                android:visibility="invisible" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/fill"
+                style="@style/Widget.MaterialComponents.Button"
+                android:layout_width="3dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="4dp"
+                android:color="#d6d3f0"
+                android:layout_weight="0."
+                android:checkable="false"
+                android:clickable="false"
+                tools:visibility="visible" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/option2"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:text="Option 2"
+                android:textAllCaps="false"
+                android:textSize="14sp"
+                android:textStyle="bold|italic"
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textRewardText"
+            android:layout_width="382dp"
+            android:layout_height="158dp"
+            android:fontFamily="serif"
+            android:text="Rewards!"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible" />
+
+        <!--  <TextView
+              android:id="@+id/textView3"
+              android:layout_width="379dp"
+              android:layout_height="match_parent"
+              android:text="@string/optionsText"
+              android:textSize="24sp" />-->
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="228dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="212dp"
+        android:layout_marginBottom="2dp"
+        app:cardBackgroundColor="#f0e3d3"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/materialCardView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/playerConteiner"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0"
+            android:contentDescription="@string/friendnpc" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/playerConteiner"
+        android:layout_width="180dp"
+        android:layout_height="282dp"
+        app:cardBackgroundColor="#f0e3d3"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/materialCardView2"
+        app:layout_constraintEnd_toStartOf="@+id/cardView"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView2"
+        app:layout_constraintVertical_bias="0.939">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="390dp"
+            android:contentDescription="@string/antero_de_quental"
+            app:srcCompat="@drawable/antro_porteit" />
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
